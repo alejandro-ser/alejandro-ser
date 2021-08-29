@@ -1,4 +1,12 @@
-### Hi there 👋
+## Welcome to my personal web portfolio! 👋
+
+### I'm Alejandro S. Giraldo
+
+### FullStack Web Developer
+### An enthusiast about technology and web development. Passionate on learning new.
+
+Checking the website just clicking the next link
+## [https://alejandro-ser.github.io](https://alejandro-ser.github.io)
 
 <!--
 **alejandro-ser/alejandro-ser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
