@@ -8,6 +8,8 @@
 Checking the website just clicking the next link
 ## [https://alejandro-ser.github.io](https://alejandro-ser.github.io)
 
+![Alejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-ser&theme=radical&show_icons=true&hide=contribs)
+
 <!--
 **alejandro-ser/alejandro-ser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
