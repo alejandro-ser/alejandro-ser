@@ -5,8 +5,8 @@
 ### FullStack Web Developer
 ### An enthusiast about technology and web development. Passionate on learning new.
 
-Checking the website just clicking the next link
-## [https://alejandro-ser.github.io](https://alejandro-ser.github.io)
+####To check my website just click on the next link
+### [https://alejandro-ser.github.io](https://alejandro-ser.github.io)
 
 ![Alejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-ser&theme=radical&show_icons=true&hide=contribs)
 
