@@ -1,9 +1,17 @@
 ## Welcome to my personal web portfolio! 👋
 
-### I'm Alejandro S. Giraldo
+### I'm Alejandro Serna Giraldo
 
 ### FullStack Web Developer
 ### An enthusiast about technology and web development. Passionate on learning new.
+
+👨‍💻 WEB_DEVELOPER = {
+    'FRONT': 'Ionic/Angular/React ⚛',
+    'BACK': 'Laravel 🐘/MySql 🐬',
+    'OS': 'GNU/Linux 🐧 / Window$ 🪟',
+    'FROM': 'Manizales 🇨🇴',
+    'BASED': 'Frankfurt 🇩🇪'
+}
 
 #### To check my website just click on the next link
 ### [https://alejandro-ser.github.io](https://alejandro-ser.github.io)
