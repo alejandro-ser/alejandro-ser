@@ -5,12 +5,12 @@
 ### FullStack Web Developer
 ### An enthusiast about technology and web development. Passionate on learning new.
 
-👨‍💻 WEB_DEVELOPER = {
-    'FRONT': 'Ionic/Angular/React ⚛',
-    'BACK': 'Laravel 🐘/MySql 🐬',
-    'OS': 'GNU/Linux 🐧 / Window$ 🪟',
-    'FROM': 'Manizales 🇨🇴',
-    'BASED': 'Frankfurt 🇩🇪'
+👨‍💻 WEB_DEVELOPER = {  
+    'FRONT': 'Ionic/Angular/React ⚛',  
+    'BACK': 'Laravel 🐘/MySql 🐬',  
+    'OS': 'GNU/Linux 🐧 / Window$ 🪟',  
+    'FROM': 'Manizales 🇨🇴',  
+    'BASED': 'Frankfurt 🇩🇪'  
 }
 
 #### To check my website just click on the next link
