@@ -5,6 +5,7 @@
 ### FullStack Web Developer
 ### An enthusiast about technology and web development. Passionate on learning new.
 
+<pre>
 👨‍💻 WEB_DEVELOPER = {  
 &nbsp;&nbsp;&nbsp;&nbsp;'FRONT': 'Ionic / Angular / React ⚛',  
 &nbsp;&nbsp;&nbsp;&nbsp;'BACK': 'Laravel 🐘 / MySql 🐬',  
@@ -12,6 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;'FROM': 'Manizales 🇨🇴',  
 &nbsp;&nbsp;&nbsp;&nbsp;'BASED': 'Frankfurt 🇩🇪'  
 }
+</pre>
 
 #### To check my website just click on the next link
 ### [https://alejandro-ser.github.io](https://alejandro-ser.github.io)
