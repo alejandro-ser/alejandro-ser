@@ -50,6 +50,9 @@ An enthusiast about technology and web development. Passionate on learning new.
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
     </a>
+    <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="36" height="36" alt="Ionic" />
+    </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" />
     </a>
