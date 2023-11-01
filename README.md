@@ -5,12 +5,18 @@
 ### An enthusiast about technology and web development. Passionate on learning new.
 
 ### 🌍  I'm based in Frankfurt am Main, Germany
+
 ### 🖥️  See my portfolio at [https://alejandro-ser.github.io](http://alejandro-ser.github.io/)
+
 ### ✉️  You can contact me at [alejosegi@gmail.com](mailto:alejosegi@gmail.com)
+
 ### 🚀  I'm currently working on [Melibo](http://melibo.de/)🤖
+
 ### 🧠  I'm learning Angular, ReactJS / German, English
+
 ### 🤝  I'm open to collaborate on Open Source projects
-### 🇨🇴    I come from the coffee zone in Colombia
+
+### ☕ I come from the coffee zone in Colombia
 
 ## Skills
 
@@ -44,11 +50,14 @@
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
+    </a> -->
     <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="36" height="36" alt="Ionic" />
+    </a>
+    <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" />
