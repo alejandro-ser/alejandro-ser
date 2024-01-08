@@ -15,13 +15,13 @@
 
 ### 🌍 Based in Frankfurt am Main, Germany
 
-### ✉️ Contact me at [alejosegi@gmail.com](mailto:alejosegi@gmail.com)
-
 ### 🖥️  See my portfolio at [https://alejandro-ser.github.io](http://alejandro-ser.github.io/)
 
-## Skills
+### ✉️ Contact me at [alejosegi@gmail.com](mailto:alejosegi@gmail.com) or <a href="https://www.linkedin.com/in/alejosegi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" /></a>
 
-<p align="left">
+<h1 align="center"><i>Skills</i></h1>
+
+<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
     </a>
@@ -41,7 +41,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" width="36" height="36" alt="PHP" />
     </a> -->
 </p>
-<p align="left">
+<p align="center">
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
     </a>
@@ -70,7 +70,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" />
     </a>
 </p>
-<p align="left">
+<p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
     </a>
@@ -78,7 +78,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
     </a>
 </p>
-<p align="left">
+<p align="center">
     <!--<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>-->
@@ -93,7 +93,7 @@
     </a>
 </p>
 
-### Socials
+<!-- <h1 align="center"><i>Contact</i></h1>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/alejosegi" target="_blank" rel="noreferrer">
@@ -102,29 +102,31 @@
     <a href="https://www.github.com/alejandro-ser" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </a>
-    <!-- <a href="https://www.twitter.com/alejosegi" target="_blank" rel="noreferrer">
+    <a href="https://www.twitter.com/alejosegi" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </a>
     <a href="http://www.instagram.com/born__89" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </a> -->
-</p>
+    </a>
+</p> -->
 
 <!-- <a href="https://www.github.com/alejandro-ser" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/alejandro-ser?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" />
 </a> -->
 
-## My GitHub Stats
+<h1 align="center"><i>GitHub Stats</i></h1>
+
+<img align="" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/Images/Dynamic/snake.svg" style="background:#161b22;">
 
 <a href="http://www.github.com/alejandro-ser"><img src="https://github-readme-stats.vercel.app/api?username=alejandro-ser&show_icons=true&hide=issues,contribs&count_private=true&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="alejandro-ser's GitHub stats" /></a>
 
 <a href="http://www.github.com/alejandro-ser"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro-ser&stroke=14b8a6&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=14b8a6&currStreakLabel=a855f7&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/alejandro-ser"><img src="https://activity-graph.herokuapp.com/graph?username=alejandro-ser&bg_color=1c1917&color=14b8a6&line=6366f1&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/alejandro-ser"><img src="https://activity-graph.herokuapp.com/graph?username=alejandro-ser&bg_color=1c1917&color=14b8a6&line=6366f1&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<a href="https://github.com/alejandro-ser" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-ser&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/alejandro-ser"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-ser&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- <b>Top Repositories</b>
+<h1 align="center"><i>Repositories</i></h1>
 
 <div width="100%" align="center">
     <a href="https://github.com/alejandro-ser/hoycomoantes" align="left">
@@ -141,4 +143,4 @@
     <a href="https://github.com/alejandro-ser/alejandro-ser.github.io" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-ser&repo=alejandro-ser.github.io&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-</div> -->
+</div>
