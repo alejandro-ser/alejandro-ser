@@ -1,5 +1,5 @@
 <!-- ## Hi 👋 My name is Alejandro Giraldo -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=C9C9C9&random=true&width=452&height=42&lines=Hola+%F0%9F%91%8B+yo+soy+Alejandro+Giraldo;Hi+%F0%9F%91%8B+I'm+Alejandro+Giraldo;Hallo+%F0%9F%91%8B+ich+bin+Alejandro+Giraldo;let+name+%3D+'Alejandro+Giraldo'" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=C9C9C9&random=false&width=455&height=45&lines=let+name+%3D+%22Alejandro+Giraldo%22;Hi+%F0%9F%91%8B+I'm+Alejandro+Giraldo;Hola+%F0%9F%91%8B+soy+Alejandro+Giraldo;Hallo+%F0%9F%91%8B+ich+bin+Alejandro+Giraldo" alt="Typing SVG" /></a>
 
 ### Web Developer 👨‍💻
 
