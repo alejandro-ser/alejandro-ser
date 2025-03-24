@@ -124,7 +124,7 @@ An enthusiast about technology and web development. Passionate on learning new.
 
 <a href="http://www.github.com/alejandro-ser"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro-ser&stroke=14b8a6&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=14b8a6&currStreakLabel=a855f7&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/alejandro-ser"><img src="https://activity-graph.herokuapp.com/graph?username=alejandro-ser&bg_color=1c1917&color=14b8a6&line=6366f1&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/alejandro-ser"><img src="https://activity-graph.herokuapp.com/graph?username=alejandro-ser&bg_color=1c1917&color=14b8a6&line=6366f1&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/alejandro-ser"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-ser&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -145,4 +145,28 @@ An enthusiast about technology and web development. Passionate on learning new.
     <a href="https://github.com/alejandro-ser/alejandro-ser.github.io" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-ser&repo=alejandro-ser.github.io&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-</div>
+</div> -->
+
+<table width="100%" align="center">
+  <tr>
+    <td align="right" width="45%" align="left">
+      <a href="https://github.com/alejandro-ser">
+        <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-ser&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+      </a>
+    </td>
+    <td align="left" width="55%">
+      <a href="https://github.com/alejandro-ser/hoycomoantes">
+        <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=aixaeg&repo=aixaeg.github.io&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+      </a><a href="https://github.com/alejandro-ser/hoycomoantes">
+        <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-ser&repo=hoycomoantes&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+      <a href="https://github.com/alejandro-ser/alejandro-ser.github.io">
+        <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-ser&repo=alejandro-ser.github.io&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>      
+      <a href="https://github.com/alejandro-ser/Gradi-Gallery">
+        <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-ser&repo=Gradi-Gallery&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+    </td>
+  </tr>
+</table>
+
